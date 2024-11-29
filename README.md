@@ -1,3 +1,5 @@
-# My First Repository
-
-This is a test reposity created in VS Code.
+## Features
+- Prints a welcome message
+- Greets the user with their name
+## About
+This project demonstrates GitHub andVSCodeintegration with Java code.
